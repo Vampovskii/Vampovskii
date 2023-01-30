@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vampovskii
 - 👀 I’m interested in Python, SQL, Data Science
-- 🌱 I’m currently learning Python and SQL Development
+- 🌱 I’m currently learning Python, Scala, Greenplum and SQL Development
 - 💼 I’m currently working in IT-company as Data Engineer
 
 <!---
